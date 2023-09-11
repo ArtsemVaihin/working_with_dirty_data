@@ -11,17 +11,17 @@
 
    ├── 2020-12-30
    
-   │  ├── FirstName_LastName1
+       │  ├── FirstName_LastName1
    
-   │  │   └── data.csv
+       │  │   └── data.csv
    
-   │  ├── FirstName_LastName2
+       │  ├── FirstName_LastName2
    
-   │  │   └── data.csv
+       │  │   └── data.csv
    
-   │  └── FirstName_LastName3
+       │  └── FirstName_LastName3
    
-   │      └── data.csv
+       │      └── data.csv
    
    └── 2020-12-31
    
